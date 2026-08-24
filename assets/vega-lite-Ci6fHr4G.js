@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BX80bFGj.js";import*as t from"https://cdn.jsdelivr.net/npm/vega/+esm";import*as n from"https://cdn.jsdelivr.net/npm/vega-lite/+esm";import*as r from"https://cdn.jsdelivr.net/npm/vega-lite-api/+esm";var i;e((()=>{i=r.register(t,n)}))();export{i as vl};

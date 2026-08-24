@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BX80bFGj.js";import t from"https://cdn.jsdelivr.net/npm/mapbox-gl/+esm";var n;e((()=>{n=document.createElement(`link`),n.href=`https://cdn.jsdelivr.net/npm/mapbox-gl/dist/mapbox-gl.css`,n.rel=`stylesheet`,document.head.appendChild(n)}))();export{t as default};
